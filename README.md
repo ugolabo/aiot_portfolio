@@ -6,7 +6,7 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 ## Smart Objects and Edge Computing
 
-| <img src="img/model1a.jpg" alt="Modèle d'AIoTCanada" width="300"> |     |
+| <img src="img/model1a.jpg" alt="Modèle d'AIoTCanada" width="200"> |     |
 |:-----|:-----|
 | Electronics, sensors, and actuators with C on Arduino | Link  |
 | Raspberry Pi alarm system with buttons; with Tkinter | Link  |
@@ -17,7 +17,7 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 ## Cloud Computing and Platforms, Databases, Computing, ML, and AI
 
-| <img src="img/model1b.jpg" alt="Modèle d'AIoTCanada" width="300"> |     |
+| <img src="img/model1b.jpg" alt="Modèle d'AIoTCanada" width="200"> |     |
 |:-----|:-----|
 | Databases: MariaDB for SQL, MongoDB for NoSQL; and Big Data | Link  |
 | Operational research, linear programming, and algorithmics | Link  |
@@ -28,7 +28,7 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 ## Interaction
  
-| <img src="img/model1c.jpg" alt="Modèle d'AIoTCanada" width="300"> |     |
+| <img src="img/model1c.jpg" alt="Modèle d'AIoTCanada" width="200"> |     |
 |:-----|:-----|
 | Interactive web page; a coloring grid | Link  |
 | Search box that pulls either GIF or stickers from GIPHY | Link  |
