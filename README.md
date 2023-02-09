@@ -8,13 +8,13 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 <img src="img/model1a.jpg" alt="Modèle d'AIoTCanada" width="200">
 
-| <u>Project:</u>     |      |
+| *Project:*     |      |
 |:-----|:-----|
 | Electronics, sensors, and actuators with C on Arduino | Link  |
 | Raspberry Pi alarm system with buttons; with Tkinter | Link  |
 | Raspberry Pi alarm system with a screen keypad; with Pygame | Link  |
 | RPi Voice-commanded Domotic System; with Tkinter | Link  |
-| <b><u>Comprehensive Project:<u></b> |       |
+| ***Comprehensive Project:*** |       |
 | Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
 
 ## Cloud Computing and Platforms, Databases, Computing, ML, and AI
