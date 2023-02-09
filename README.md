@@ -6,7 +6,9 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 ## Smart Objects and Edge Computing
 
-| <img src="img/model1a.jpg" alt="Modèle d'AIoTCanada" width="200"> |     |
+<img src="img/model1a.jpg" alt="Modèle d'AIoTCanada" width="200">
+
+|      |      |
 |:-----|:-----|
 | Electronics, sensors, and actuators with C on Arduino | Link  |
 | Raspberry Pi alarm system with buttons; with Tkinter | Link  |
