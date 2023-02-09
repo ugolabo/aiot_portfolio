@@ -6,17 +6,34 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 ## Smart Objects and Edge Computing
 
-<div style="width: 100%; overflow:auto;">
-   <div style="float:left; width: 50%">
-     <img src="img/model1a.jpg" alt="Modèle d'AIoTCanada">
+<style type="text/css">
+.wrap {
+    width: 100%;
+}
+.floatleft {
+    float:left; 
+    width: 80%;
+    background-color: #ff0000;
+    height: 400px;
+}
+.floatright {
+float: right;
+    background-color: #00ff00;
+    height: 400px;
+    width: 20%;
+}
+</style>
+<div class="wrap">
+   <div class="floatleft">
+      <img src="img/model1a.jpg" alt="Modèle d'AIoTCanada">
    </div>
-   <div style="float:right;">
-     TABLEAU A
-     
-     TABLEAU
+   <div class="floatright">
+      TABLEAU A
    </div>
+   <div style="clear: both;"></div>
 </div>
-<div style="clear:both"></div>
+
+
 
 ## Cloud Computing, Databases, and Platforms
 
