@@ -8,7 +8,7 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 |     |     |
 |-----|-----|
-| ![Modèle d'AIoTCanada](img/model1.jpg "Modèle d'AIoTCanada")    | TABLEAU A    |
+| <img src="img/model1a.jpg" alt="Modèle d'AIoTCanada" width="200">   | TABLEAU A    |
 
 ## Cloud Computing, Databases, and Platforms
 
