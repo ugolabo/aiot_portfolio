@@ -10,12 +10,12 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 | Projects:     |      |
 |:-----|:-----|
-| &nbsp;&nbsp;&nbsp;&nbsp;Electronics, sensors, and actuators with C on Arduino | Link  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi alarm system with buttons; with Tkinter | Link  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi alarm system with a screen keypad; with Pygame | Link  |
-| &nbsp;&nbsp;&nbsp;&nbsp;RPi Voice-commanded Domotic System; with Tkinter | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Electronics, sensors, and actuators with C on Arduino | <a href="https://github.com/ugolabo/electronics_sensors_actuators">right-click to repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi alarm system with buttons; with Tkinter | <a href="https://github.com/ugolabo/rpi_alarm_system">right-click to repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi alarm system with a screen keypad; with Pygame | <a href="https://github.com/ugolabo/rpi_alarm_system_v2">right-click to repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;RPi Voice-commanded Domotic System; with Tkinter | <a href="https://github.com/ugolabo/voice_commanded_domotics">right-click to repo</a>  |
 | **Comprehensive Project:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
 
 ## Cloud Computing and Platforms, Databases, Computing, ML, and AI
 
@@ -23,12 +23,12 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 | Projects:     |      |
 |:-----|:-----|
-| &nbsp;&nbsp;&nbsp;&nbsp;Databases: MariaDB for SQL, MongoDB for NoSQL; and Big Data | Link  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Operational research, linear programming, and algorithmics | Link  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Unit testing with pytest, doctest, and code typing with mypy | Link  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning with a Random Forests model; predicting obesity | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Databases: MariaDB for SQL, MongoDB for NoSQL; and Big Data | <a href="https://github.com/ugolabo/databases_big_data">right-click to repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Operational research, linear programming, and algorithmics | <a href="https://github.com/ugolabo/or_linear_programming_algorithmics">right-click to repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Unit testing with pytest, doctest, and code typing with mypy | <a href="https://github.com/ugolabo/unit_testing_code_typing">right-click to repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning with a Random Forests model; predicting obesity | <a href="https://github.com/ugolabo/ml_random_forests">right-click to repo</a>  |
 | **Comprehensive Project:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
 
 ## Interaction
 
@@ -36,8 +36,8 @@ Selected projects modeled on the  AIoTCanada Business Model:
  
 | Projects:     |      |
 |:-----|:-----|
-| &nbsp;&nbsp;&nbsp;&nbsp;Interactive web page; a coloring grid | Link  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Search box that pulls either GIF or stickers from GIPHY | <a href="https://github.com/ugolabo/search_box_giphy">right-clik to repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Interactive web page; a coloring grid | <a href="https://github.com/ugolabo/interactive_web_page">right-click to repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Search box that pulls either GIF or stickers from GIPHY | <a href="https://github.com/ugolabo/search_box_giphy">right-click to repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Backend server with MongoDB and frontend web site | ?  |
 | &nbsp;&nbsp;&nbsp;&nbsp;React-Native weather app; with Expo | ?  |
 | &nbsp;&nbsp;&nbsp;&nbsp;React-Native IoT app to command a connected object; though a MQTT server | ?  |
