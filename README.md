@@ -12,6 +12,8 @@ Selected projects modeled on the  AIoTCanada Business Model:
    </div>
    <div style="float:right;">
      TABLEAU A
+     
+     TABLEAU
    </div>
 </div>
 <div style="clear:both"></div>
