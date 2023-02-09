@@ -15,7 +15,7 @@ Selected projects modeled on the  AIoTCanada Business Model:
 | **Comprehensive Project:** |       |
 | Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
 
-## Cloud Computing, Databases, and Platforms
+## Cloud Computing and Platforms, Databases, Computing, ML, and AI
 
 | <img src="img/model1b.jpg" alt="Modèle d'AIoTCanada" width="500"> |     |
 |:-----|:-----|
