@@ -21,25 +21,25 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 <img src="img/model1b.jpg" alt="Modèle d'AIoTCanada" width="200">
 
-| Project     |      |
+| Projects:     |      |
 |:-----|:-----|
-| Databases: MariaDB for SQL, MongoDB for NoSQL; and Big Data | Link  |
-| Operational research, linear programming, and algorithmics | Link  |
-| Unit testing with pytest, doctest, and code typing with mypy | Link  |
-| Machine Learning with a Random Forests model; predicting obesity | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Databases: MariaDB for SQL, MongoDB for NoSQL; and Big Data | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Operational research, linear programming, and algorithmics | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Unit testing with pytest, doctest, and code typing with mypy | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning with a Random Forests model; predicting obesity | Link  |
 | **Comprehensive Project:** |       |
-| Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
 
 ## Interaction
 
 <img src="img/model1c.jpg" alt="Modèle d'AIoTCanada" width="200">
 
-| Project     |      |
+| Projects:     |      |
 |:-----|:-----|
-| Interactive web page; a coloring grid | Link  |
-| Search box that pulls either GIF or stickers from GIPHY | Link  |
-| Backend server with MongoDB and frontend web site | ?  |
-| React-Native weather app; with Expo | ?  |
-| React-Native IoT app to command a connected object; though a MQTT server | ?  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Interactive web page; a coloring grid | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Search box that pulls either GIF or stickers from GIPHY | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Backend server with MongoDB and frontend web site | ?  |
+| &nbsp;&nbsp;&nbsp;&nbsp;React-Native weather app; with Expo | ?  |
+| &nbsp;&nbsp;&nbsp;&nbsp;React-Native IoT app to command a connected object; though a MQTT server | ?  |
 | **Comprehensive Project:** |       |
-| Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
