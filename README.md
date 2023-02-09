@@ -37,7 +37,7 @@ Selected projects modeled on the  AIoTCanada Business Model:
 | Projects:     |      |
 |:-----|:-----|
 | &nbsp;&nbsp;&nbsp;&nbsp;Interactive web page; a coloring grid | Link  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Search box that pulls either GIF or stickers from GIPHY | <a href="https://github.com/ugolabo/search_box_giphy" target="_blank">repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Search box that pulls either GIF or stickers from GIPHY | <a href="https://github.com/ugolabo/search_box_giphy">right-clik to repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Backend server with MongoDB and frontend web site | ?  |
 | &nbsp;&nbsp;&nbsp;&nbsp;React-Native weather app; with Expo | ?  |
 | &nbsp;&nbsp;&nbsp;&nbsp;React-Native IoT app to command a connected object; though a MQTT server | ?  |
