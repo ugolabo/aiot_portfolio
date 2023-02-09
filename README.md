@@ -19,7 +19,9 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 ## Cloud Computing and Platforms, Databases, Computing, ML, and AI
 
-| <img src="img/model1b.jpg" alt="Modèle d'AIoTCanada" width="200"> |     |
+<img src="img/model1b.jpg" alt="Modèle d'AIoTCanada" width="200">
+
+|      |      |
 |:-----|:-----|
 | Databases: MariaDB for SQL, MongoDB for NoSQL; and Big Data | Link  |
 | Operational research, linear programming, and algorithmics | Link  |
@@ -29,8 +31,10 @@ Selected projects modeled on the  AIoTCanada Business Model:
 | Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
 
 ## Interaction
- 
-| <img src="img/model1c.jpg" alt="Modèle d'AIoTCanada" width="200"> |     |
+
+<img src="img/model1c.jpg" alt="Modèle d'AIoTCanada" width="200">
+
+|      |      |
 |:-----|:-----|
 | Interactive web page; a coloring grid | Link  |
 | Search box that pulls either GIF or stickers from GIPHY | Link  |
