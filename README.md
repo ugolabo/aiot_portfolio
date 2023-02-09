@@ -8,10 +8,10 @@ Selected projects modeled on the  AIoTCanada Business Model:
 
 <img src="img/model1a.jpg" alt="Modèle d'AIoTCanada" width="200">
 
-| *Project:*     |      |
+| *Projects:*     |      |
 |:-----|:-----|
-| Electronics, sensors, and actuators with C on Arduino | Link  |
-| Raspberry Pi alarm system with buttons; with Tkinter | Link  |
+| &nbsp;Electronics, sensors, and actuators with C on Arduino | Link  |
+| &nbsp;&nbsp;Raspberry Pi alarm system with buttons; with Tkinter | Link  |
 | Raspberry Pi alarm system with a screen keypad; with Pygame | Link  |
 | RPi Voice-commanded Domotic System; with Tkinter | Link  |
 | ***Comprehensive Project:*** |       |
