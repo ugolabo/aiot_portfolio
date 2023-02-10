@@ -42,4 +42,4 @@ Selected projects modeled on the  AIoTCanada Business Model:
 | &nbsp;&nbsp;&nbsp;&nbsp;React-Native weather app; with Expo | ?  |
 | &nbsp;&nbsp;&nbsp;&nbsp;React-Native IoT app to command a connected object; though a MQTT server | ?  |
 | **Comprehensive Project:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | Link  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
