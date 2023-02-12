@@ -1,6 +1,6 @@
 # Portfolio
 
-Selected projects modeled on the  AIoTCanada Business Model:
+Selected projects modeled on the AIoTCanada business model:
 
 <img src="img/model1.jpg" alt="Modèle d'AIoTCanada">
 
