@@ -11,7 +11,7 @@ Selected projects modeled on the  AIoTCanada Business Model:
 | Projects:     |      |
 |:-----|:-----|
 | &nbsp;&nbsp;&nbsp;&nbsp;Electronics, sensors, and actuators with C on Arduino | <a href="https://github.com/ugolabo/electronics_sensors_actuators">right-click to repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi alarm system on Raspberry Pi | <a href="https://github.com/ugolabo/rpi_alarm_system">right-click to repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi alarm system | <a href="https://github.com/ugolabo/rpi_alarm_system">right-click to repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;RPi Voice-commanded Domotic System; with Tkinter | <a href="https://github.com/ugolabo/voice_commanded_domotics">right-click to repo</a>  |
 | **Comprehensive Project:** |       |
 | &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
