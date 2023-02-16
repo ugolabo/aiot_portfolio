@@ -22,7 +22,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 
 | Projets:     |      |
 |:-----|:-----|
-| &nbsp;&nbsp;&nbsp;&nbsp;Bases de données: MariaDB pour SQL, MongoDB pour NoSQL; et Données Massives | <a href="[https://github.com/ugolabo/databases_big_data](https://github.com/ugolabo/base_donnees_massives)">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Bases de données: MariaDB pour SQL, MongoDB pour NoSQL; et Données Massives | <a href="https://github.com/ugolabo/base_donnees_massives">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Operational research, linear programming, and algorithmics | <a href="https://github.com/ugolabo/or_linear_programming_algorithmics">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Unit testing with pytest, doctest, and code typing with mypy | <a href="https://github.com/ugolabo/unit_testing_code_typing">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning with a Random Forests model; predicting obesity | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
