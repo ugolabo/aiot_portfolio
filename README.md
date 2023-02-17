@@ -4,7 +4,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 
 <img src="img/model1.jpg" alt="Modèle d'AIoTCanada">
 
-## Smart Objects and Edge Computing
+## *Smart Objects and Edge Computing*
 
 <img src="img/model1a.jpg" alt="Modèle d'AIoTCanada" width="200">
 
@@ -16,7 +16,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | **Projet intégrateur:** |       |
 | &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
 
-## Cloud Computing and Platforms, Databases, Computing, ML, and AI
+## *Cloud Computing and Platforms, Databases, Computing, ML, and AI*
 
 <img src="img/model1b.jpg" alt="Modèle d'AIoTCanada" width="200">
 
