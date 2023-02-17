@@ -35,8 +35,8 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
  
 | Projets:     |      |
 |:-----|:-----|
-| &nbsp;&nbsp;&nbsp;&nbsp;Interactive web page; a coloring grid | <a href="https://github.com/ugolabo/interactive_web_page">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Search box that pulls either GIF or stickers from GIPHY | <a href="https://github.com/ugolabo/search_box_giphy">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Interactive web page; a coloring grid | <a href="https://github.com/ugolabo/page_web_interactive">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Search box that pulls either GIF or stickers from GIPHY | <a href="https://github.com/ugolabo/boite_recherche_api_giphy">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;React-Native weather app; with Expo | todo  |
 | &nbsp;&nbsp;&nbsp;&nbsp;React-Native IoT app to command a connected object; though a MQTT server | todo  |
 | **Projet intégrateur:** |       |
