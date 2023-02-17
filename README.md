@@ -14,7 +14,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Système d'alarme avec un Raspberry Pi | <a href="https://github.com/ugolabo/systeme_alarme_rpi">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Domotique avec commandes vocales et Tkinter sur un RPi  | <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | todo  |
 
 ## *Cloud Computing and Platforms, Databases, Computing, ML, and AI*
 
@@ -27,7 +27,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Unit tests avec `pytest`, `doctest`; typage de code et `mypy` | <a href="https://github.com/ugolabo/unit_testing_code_typing">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning avec des modèles de Random Forests; prédire l'obésité  | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;todo Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | todo  |
 
 ## *Interaction*
 
