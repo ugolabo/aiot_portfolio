@@ -12,7 +12,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 |:-----|:-----|
 | &nbsp;&nbsp;&nbsp;&nbsp;Électronique, capteurs et actionneurs en langage C sur Arduino | <a href="https://github.com/ugolabo/electro_capteurs_actionneurs">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Système d'alarme avec un Raspberry Pi | <a href="https://github.com/ugolabo/systeme_alarme_rpi">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi voice-commanded domotic system; with Tkinter | <a href="https://github.com/ugolabo/voice_commanded_domotics">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Domotique avec commandes vocales et Tkinter sur un RPi  | <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
 | &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
 
@@ -24,10 +24,10 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 |:-----|:-----|
 | &nbsp;&nbsp;&nbsp;&nbsp;Bases de données: MariaDB pour SQL, MongoDB pour NoSQL; et Données Massives | <a href="https://github.com/ugolabo/base_donnees_massives">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Programmation linéaire, recherche opérationnelle et algorithmique | <a href="https://github.com/ugolabo/programmation_lineaire_algorithmique">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Unit testing with pytest, doctest, and code typing with mypy | <a href="https://github.com/ugolabo/unit_testing_code_typing">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning with a Random Forests model; predicting obesity | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Unit tests avec `pytest`, `doctest`; typage de code et `mypy` | <a href="https://github.com/ugolabo/unit_testing_code_typing">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning avec des modèles de Random Forests; prédire l'obésité  | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
+| &nbsp;&nbsp;&nbsp;&nbsp;todo Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
 
 ## *Interaction*
 
@@ -35,9 +35,9 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
  
 | Projets:     |      |
 |:-----|:-----|
-| &nbsp;&nbsp;&nbsp;&nbsp;Interactive web page; a coloring grid | <a href="https://github.com/ugolabo/page_web_interactive">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Search box that pulls either GIF or stickers from GIPHY | <a href="https://github.com/ugolabo/boite_recherche_api_giphy">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;React-Native weather app; with Expo | todo  |
-| &nbsp;&nbsp;&nbsp;&nbsp;React-Native IoT app to command a connected object; though a MQTT server | todo  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Page web interactive; grille à colorier  | <a href="https://github.com/ugolabo/page_web_interactive">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Boite de recherche; API GIPHY pour télécharger des GIF ou des Stickers | <a href="https://github.com/ugolabo/boite_recherche_api_giphy">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Appli Météo avec React-Native et Expo | todo  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Appli pour piloter un objet connecté par MQTT avec React-Native et Expo | todo  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | todo  |
