@@ -29,7 +29,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | **Projet intégrateur:** |       |
 | &nbsp;&nbsp;&nbsp;&nbsp;Raspberry Pi Pico node (microcontroller and sensor) to a Streamlit dashboard via MQTT and MongoDB | todo  |
 
-## Interaction
+## *Interaction*
 
 <img src="img/model1c.jpg" alt="Modèle d'AIoTCanada" width="200">
  
