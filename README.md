@@ -24,7 +24,8 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 |:-----|:-----|
 | &nbsp;&nbsp;&nbsp;&nbsp;Bases de données: MariaDB, MySQL pour SQL, MongoDB pour NoSQL; et Données Massives | <a href="https://github.com/ugolabo/base_donnees_massives">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Programmation linéaire, recherche opérationnelle et algorithmique | <a href="https://github.com/ugolabo/programmation_lineaire_algorithmique">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Unit tests avec `pytest`, `doctest`; typage de code et `mypy` | <a href="https://github.com/ugolabo/unit_testing_code_typing">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Tests unitaires et typage de code source | <a href="https://github.com/ugolabo/ tests_unitaires_typage_code
+">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning avec des modèles de Random Forests; prédire l'obésité  | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
 | &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | todo  |
