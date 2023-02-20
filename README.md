@@ -14,7 +14,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Système d'alarme avec un Raspberry Pi | <a href="https://github.com/ugolabo/systeme_alarme_rpi">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Domotique avec commandes vocales et Tkinter sur des Raspberry Pi  | <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | todo  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
 
 ## *Cloud Computing and Platforms, Databases, Computing, ML, and AI*
 
@@ -27,7 +27,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Tests unitaires et typage de code source | <a href="https://github.com/ugolabo/tests_unitaires_typage_code">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning avec des modèles de Random Forests; prédire l'obésité  | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | todo  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
 
 ## *Interaction*
 
@@ -40,4 +40,4 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Appli Météo avec React-Native et Expo | todo  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Appli pour piloter un objet connecté par MQTT avec React-Native et Expo | todo  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | todo  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à Streamlit via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
