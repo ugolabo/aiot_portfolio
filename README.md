@@ -27,7 +27,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Tests unitaires et typage de code source | <a href="https://github.com/ugolabo/tests_unitaires_typage_code">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning avec des modèles de Random Forests; prédire l'obésité  | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à <ins>Streamlit (tableau de bord)<br>&nbsp;&nbsp;&nbsp;&nbsp;via MQTT et MongoDB Atlas</ins> | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à <ins>Streamlit (tableau de bord)</ins><br>&nbsp;&nbsp;&nbsp;&nbsp;<ins>via MQTT et MongoDB Atlas</ins> | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
 
 ## *Interaction*
 
