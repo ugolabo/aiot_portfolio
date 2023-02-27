@@ -38,7 +38,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Page web interactive; grille à colorier  | <a href="https://github.com/ugolabo/page_web_interactive">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Boite de recherche; API GIPHY pour télécharger des GIF ou des Stickers | <a href="https://github.com/ugolabo/boite_recherche_api_giphy">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à <ins>Streamlit(tableau de bord)</ins><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à <ins>Streamlit (tableau de bord)</ins><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
 
 <!--
 | &nbsp;&nbsp;&nbsp;&nbsp;Appli Météo avec React-Native et Expo | todo  |
