@@ -14,7 +14,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Système d'alarme avec un Raspberry Pi | <a href="https://github.com/ugolabo/systeme_alarme_rpi">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Domotique avec commandes vocales et Tkinter sur des Raspberry Pi  | <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: ==noeuds RPi Pico (microcontrôleur et capteur)== à Streamlit via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
+| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: <ins>noeuds RPi Pico (microcontrôleur et capteur)</ins> à Streamlit via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
 
 ## *Cloud Computing and Platforms, Databases, Computing, ML, and AI*
 
