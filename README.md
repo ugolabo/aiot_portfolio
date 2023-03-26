@@ -27,7 +27,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Programmation linéaire, recherche opérationnelle et algorithmique | <a href="https://github.com/ugolabo/programmation_lineaire_algorithmique">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Tests unitaires et typage de code source | <a href="https://github.com/ugolabo/tests_unitaires_typage_code">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning avec des modèles de Random Forests; prédire l'obésité  | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;L mise en production (et la bonification) avec Streamlit | <a href="https://ugolabo-ml-random-forests-st-01-modele-widb6v.streamlit.app/">bouton droit vers site</a> |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La mise en production (et la bonification) avec Streamlit | <a href="https://ugolabo-ml-random-forests-st-01-modele-widb6v.streamlit.app/">bouton droit vers site</a> |
 | **Projet intégrateur:** |       |
 | &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à <ins>Streamlit (tableau de bord)</ins><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>via MQTT et MongoDB Atlas</ins> | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a> |
