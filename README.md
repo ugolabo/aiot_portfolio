@@ -15,7 +15,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Domotique avec commandes vocales et Tkinter sur des Raspberry Pi  | <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
 | &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: <ins>noeuds RPi Pico (microcontrôleur et capteur)</ins> à Streamlit (tableau de bord)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers repo</a> |
+| &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a> |
 
 ## *Cloud Computing and Platforms, Databases, Computing, ML, and AI*
 
@@ -29,7 +29,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning avec des modèles de Random Forests; prédire l'obésité  | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
 | &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à <ins>Streamlit (tableau de bord)</ins><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>via MQTT et MongoDB Atlas</ins> | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers repo</a> |
+| &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a> |
 
 ## *Interaction*
 
@@ -41,7 +41,7 @@ Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
 | &nbsp;&nbsp;&nbsp;&nbsp;Boite de recherche; API GIPHY pour télécharger des GIF ou des Stickers | <a href="https://github.com/ugolabo/boite_recherche_api_giphy">bouton droit vers repo</a>  |
 | **Projet intégrateur:** |       |
 | &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à <ins>Streamlit (tableau de bord)</ins><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a> |
-| &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers repo</a> |
+| &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a> |
 
 <!--
 | &nbsp;&nbsp;&nbsp;&nbsp;Appli Météo avec React-Native et Expo | todo  |
